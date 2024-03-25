@@ -47,3 +47,11 @@ button:focus-visible {
 button.selected {
   background-color: #646cff;
 }
+
+table,
+th,
+td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  padding: 20px;
+}
